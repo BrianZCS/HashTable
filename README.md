@@ -1,17 +1,15 @@
 CS400 Project One Proposal
-GROUP: KD FLIPGRID:https://flipgrid.com/spr21kd 
-TA: Keren TA EMAIL: kchen359@wisc.edu 
 
 RED TEAM (Role: Name - Email):
-Data Wrangler: Brenna Buck - 1. bbuck2@wisc.edu
-Backend Developer: Minyi Li - 2. mli675@wisc.edu
-Frontend Developer: Muhammad Ismail - 3. mismail6@wisc.edu
-Integration Manager: Almann Brague - 4. brague@wisc.edu
+Data Wrangler: 
+Backend Developer: 
+Frontend Developer: 
+Integration Manager:
 
 BLUE TEAM (Role:  Name - Email):
-Data Wrangler: Alan Jordao Cortez - 1. ajcortez@wisc.edu
-Backend Developer: Jack Gundrum - 2. jpgundrum@wisc.edu
-Frontend Developer: Ryan Stevenson - 3. rstevenson5@wisc.edu
+Data Wrangler: 
+Backend Developer: 
+Frontend Developer: 
 Integration Manager: Zhi Zheng - 4. zzheng94@wisc.edu
 ________________________________________
 
@@ -204,13 +202,8 @@ Team Signatures:
 
 Each team member must type their own name and current date in place of one of the blanks below, to confirm their contributions and agreement to the proposal described above.
 
-	Jack Gundrum			                02/15/21    
-Brenna Buck               		    02/15/21
-Ryan Stevenson			    02/15/21 
-Muhammad Ismail			    02/15/21
-Almann Brague                                      02/15/21
 Zhi Zheng				    02/15/21
-Minyi Li                                                   02/16/21
+
 ________________________                ________________________    
 ________________________                ________________________ 
 ________________________                ________________________    
