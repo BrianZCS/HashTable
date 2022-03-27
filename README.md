@@ -1,4 +1,4 @@
-CS400 Project One Proposal
+CS400 Project One
 
 RED TEAM (Role: Name - Email):
 Data Wrangler: 
