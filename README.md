@@ -213,5 +213,7 @@ ________________________________________
 End of Proposal
 
 
-# HashTable
-# HashTable
+# What I did for this project
+	I helped the Frontend developer fix some bugs in his code.
+	I fixed some intergration issues to make sure all codes can run without errors.
+	I set up the schedule for group meeting and coordinates the deadline and goal for each milestone.
